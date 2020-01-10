@@ -9,6 +9,8 @@
 
 * web para os restaurantes que desejam oferencer serviços, [aqui](https://restaurante.godinner.tk/)
 
+![Alt Text](https://github.com/marinaSantanaVaz/imagens-godinner/blob/master/restaurante_web.PNG)
+
 * web para administração dos resaturantes cadastrados em nossa plataforma, [aqui](https://godinner.tk/).
 
 * Faça download de nosso aplicativo, voltado para os clientes, [aqui](https://godinner.tk/app).
