@@ -13,6 +13,8 @@
 
 * web para administração dos resaturantes cadastrados em nossa plataforma, [aqui](https://godinner.tk/).
 
+![Alt Text](https://github.com/marinaSantanaVaz/imagens-godinner/blob/master/godinner_web.PNG)
+
 * Faça download de nosso aplicativo, voltado para os clientes, [aqui](https://godinner.tk/app).
 
 ![Alt Text](https://github.com/marinaSantanaVaz/imagens-godinner/blob/master/godinner_apk.PNG)
