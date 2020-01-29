@@ -1,11 +1,8 @@
 # GoDinner
 
-### Sobre a GoDinner
+A GoDinner é uma startup com foco em delivery de comida,criada durante o TCC do curso técnico de informática do Senai de Jandira
 
-**Quem somos**
-<p>A GoDinner é uma startup com foco em delivery de comida,criada durante o TCC do curso técnico de informática do Senai de Jandira<p>
-
-**Conheça as nossas plataformas**
+## Conheça as nossas plataformas
 
 * web para os restaurantes que desejam oferencer serviços, [aqui](https://restaurante.godinner.tk/)
 
@@ -25,20 +22,20 @@
 
 Os testes automatizados, foram criados utilizando a ferramenta [Cypress.io](https://www.cypress.io/).
 
-  **instalação do cypress**
+ > **instalação do cypress**
 
-  ```npm install cypress --save-dev```
+ >> ```npm install cypress --save-dev```
 
-  **Rodando os testes**
+ > **Rodando os testes**
   
-  ```npm run cypress```
+ >> ```npm run cypress```
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+> [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 ©.
+> - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+> - Copyright 2019 ©.
 
 
 
