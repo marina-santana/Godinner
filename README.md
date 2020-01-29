@@ -21,6 +21,25 @@
 
 ![Alt Text](https://github.com/marinaSantanaVaz/imagens-godinner/blob/master/godinner_apk.PNG)
 
+## Testes
+
+Os testes automatizados, foram criados utilizando a ferramenta [Cypress.io](https://www.cypress.io/).
+
+  **instalação do cypress**
+
+  ```npm install cypress --save-dev```
+
+  **Rodando os testes**
+  
+  ```npm run cypress```
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 ©.
+
 
 
 
