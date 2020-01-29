@@ -22,13 +22,13 @@ A GoDinner é uma startup com foco em delivery de comida,criada durante o TCC do
 
 Os testes automatizados, foram criados utilizando a ferramenta [Cypress.io](https://www.cypress.io/).
 
- **instalação do cypress**
+  **instalação do cypress**
    
-  ```npm install cypress --save-dev```
+     ```npm install cypress --save-dev```
 
- **Rodando os testes**
+  **Rodando os testes**
  
- ```npm run cypress```
+     ```npm run cypress```
 
 
 
