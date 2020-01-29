@@ -2,7 +2,7 @@
 
 A GoDinner é uma startup com foco em delivery de comida,criada durante o TCC do curso técnico de informática do Senai de Jandira
 
-### Conheça as nossas plataformas
+## Nossas plataformas
 
 1. Web para os restaurantes que desejam oferencer serviços, [aqui](https://restaurante.godinner.tk/)
 
