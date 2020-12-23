@@ -6,19 +6,19 @@ A GoDinner é uma startup com foco em delivery de comida,criada durante o TCC do
 
 1. Web para os restaurantes que desejam oferencer serviços, [aqui](https://restaurante.godinner.tk/)
 
-![Alt Text](https://github.com/marina-santana/imagens/blob/master/restaurante_web.PNG "Plataforma web do restaurante")
+![Restaurante](https://user-images.githubusercontent.com/47863089/103041984-c6d0aa80-4556-11eb-9597-ad2e53676c26.png "Plataforma web do Restaurante")
 <br/>
 <br>
 
 2. Web para administração dos resaturantes cadastrados em nossa plataforma, [aqui](https://godinner.tk/).
 
-![Alt Text](https://github.com/marina-santana/imagens/blob/master/godinner_web.PNG "Plataforma web da Godinner")
+![Godinner](https://user-images.githubusercontent.com/47863089/103042008-e23bb580-4556-11eb-9432-16a56d61197c.png "Plataforma web da Godinner")
 <br/>
 <br>
 
 3. Faça download de nosso aplicativo, voltado para os clientes, [aqui](https://godinner.tk/app).
 
-![Alt Text](https://github.com/marina-santana/imagens/blob/master/godinner_apk.PNG "Plataforma mobile do cliente")
+![App](https://user-images.githubusercontent.com/47863089/103042133-58401c80-4557-11eb-9437-3d2a51822938.png "Plataforma mobile do cliente")
 
 ## Testes
 
